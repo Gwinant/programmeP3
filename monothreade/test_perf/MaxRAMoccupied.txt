@@ -1,5 +1,0 @@
-
-***************** 1 threads *****************
-graph/graph10.bin
-Max portion of RAM occupied [Kbytes] 	 1724
-
