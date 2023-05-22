@@ -1,0 +1,31 @@
+
+***************** 2 threads *****************
+graph/graph10.bin
+Max portion of RAM occupied [Kbytes] 	 2144
+
+graph/graph100.bin
+Max portion of RAM occupied [Kbytes] 	 2156
+
+graph/graph1000.bin
+Max portion of RAM occupied [Kbytes] 	 2080
+
+***************** 4 threads *****************
+graph/graph10.bin
+Max portion of RAM occupied [Kbytes] 	 2004
+
+graph/graph100.bin
+Max portion of RAM occupied [Kbytes] 	 2172
+
+graph/graph1000.bin
+Max portion of RAM occupied [Kbytes] 	 2272
+
+***************** 8 threads *****************
+graph/graph10.bin
+Max portion of RAM occupied [Kbytes] 	 2036
+
+graph/graph100.bin
+Max portion of RAM occupied [Kbytes] 	 2048
+
+graph/graph1000.bin
+Max portion of RAM occupied [Kbytes] 	 2168
+
